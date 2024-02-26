@@ -5,6 +5,19 @@ __pycache__/
 
 # C extensions
 *.so
+.bash_history
+.bash_profile
+.conda/
+.cursor-server/
+.dotnet/
+.jupyter/
+.local/
+.ssh/
+.viminfo
+.vscode-server/
+.wget-hsts
+gradebook.db
+private/
 
 # Distribution / packaging
 .Python
